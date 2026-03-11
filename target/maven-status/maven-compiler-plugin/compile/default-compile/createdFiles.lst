@@ -1,0 +1,9 @@
+com/example/demo/controller/DeptController.class
+com/example/demo/entity/SysDept.class
+com/example/demo/entity/SysUser.class
+com/example/demo/DemoApplication.class
+com/example/demo/entity/SysRole.class
+com/example/demo/controller/PageController.class
+com/example/demo/controller/UserController.class
+com/example/demo/mapper/SysUserMapper.class
+com/example/demo/mapper/SysDeptMapper.class
